@@ -1,0 +1,2 @@
+# Similarity-Aware-Triplet-Deep-Learning-Framework-for-Robust-ACL-Tear-Detection
+This repository implements a similarity-guided deep metric learning framework for automated multi-class ACL tear detection from knee MRI scans. By combining a ResNet-50 backbone with self-supervised contrastive learning and triplet loss, it addresses annotation scarcity to yield highly discriminative feature representations.
